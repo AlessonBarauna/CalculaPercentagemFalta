@@ -1,0 +1,15 @@
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\bin\Debug\net6.0\CalculaPorcentagemFalta.exe
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\bin\Debug\net6.0\CalculaPorcentagemFalta.deps.json
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\bin\Debug\net6.0\CalculaPorcentagemFalta.runtimeconfig.json
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\bin\Debug\net6.0\CalculaPorcentagemFalta.dll
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\bin\Debug\net6.0\CalculaPorcentagemFalta.pdb
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.AssemblyInfo.cs
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.dll
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\refint\CalculaPorcentagemFalta.dll
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.pdb
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\CalculaPorcentagemFalta.genruntimeconfig.cache
+C:\Users\aless\source\repos\EstudosCSharp\CalculaPorcentagemFalta\obj\Debug\net6.0\ref\CalculaPorcentagemFalta.dll
